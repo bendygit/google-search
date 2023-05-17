@@ -32,13 +32,17 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
 <meta name="description" content="Business As a loyal partner sell technology">
 <meta name="author" content="Rathana phone Shop1">
-<meta name="keywords" content=",Rathana phone Shop1 in Phnom Penh, in OTHER RETAIL">
-               "description": "Business As a loyal partner sell technology",
+<meta name="keywords" content=",Rathana phone Shop1 in Phnom Penh, in OTHER RETAIL">             
+  "description": "Business As a loyal partner sell technology",
         "address": {
             "@type": "PostalAddress",
              "streetAddress": "SangkatDangkor, Khan Dangkor St5",              "addressLocality": "Phnom Penh",              "addressRegion": "Phnom Penh",              "postalCode": "120501",              "addressCountry": "Cambodia"         },
         "review": {		
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+<meta name="geo.position" content="19.076;72.8774">
+<meta name="geo.placename" content="Phnom Penh">
+<meta name="geo.region" content="KH">
+        <title>Rathana phone Shop1 in  Phnom Penh </title><meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Subscription Expired</title>
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=2392819
