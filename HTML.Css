@@ -1,4 +1,4 @@
-# google-search
+
  Google search homepage in HTML & CSS
 <!DOCTYPE html>
 <html lang="en">
@@ -8,7 +8,7 @@
            ( hello the world )   
    <meta charset="utf-8">
 <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM
-    <!-- Fancybox API -->
+    <!important>-- Fancybox API -->
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 <meta name="gongle-signin-client-id" content="google-site-verification:
 mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2",         "android_client_info": {apps.googleusercontent.com">"oauth2": {
@@ -52,7 +52,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
         </script>
 	
 		 
-	 <!-- End Google Tag Manager --> 
+	<!-- End Google Tag Manager --> 
 		 src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js?v=4885402055 integrity=" crossorigin="anonymous"></script>
     <!-- Google Tag Manager (noscript) -->     <noscript><iframe src="https://www.googletagmanager.com/ns.httsp://(<head></head>) js=<>/script><script>     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>     <!-- End Google Tag Manager (noscript) -->
 	</head>
