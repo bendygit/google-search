@@ -42,7 +42,7 @@ body {
 }
 
 .menu a {
-  color: #2d2d2d;
+  color: #3f50b5;
   text-decoration: none;
   margin-right: 15px;
 }
@@ -54,7 +54,7 @@ body {
 .app-toggle {
   margin-right: 15px;
   text-decoration: none;
-  color: #2d2d2d;
+  color: Green;
   font-size: 25px;
 }
 
@@ -134,7 +134,7 @@ body {
   text-decoration: none;
   margin-right: 15px;
   background-color: #ececec;
-  color: black;
+  color:Blue;
   padding: 10px 15px;
   border-radius: 3px;
   border: 1px solid rgba(0, 0, 0, 0);
@@ -152,6 +152,6 @@ body {
   display: flex;
   align-items: center;
   padding: 20px 30px;
-  background-color: #ececec;
-  border-top: 1px solid #d4d4d4;
+  background-color: Yellow;
+  border-top: 1px solid #3f50b5;
 }
