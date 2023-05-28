@@ -64,7 +64,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 						<div class="card-body text-center">
 							<h5 class="card-title">Website Subscription Expired</h5>
 							<p class="card-text">
-								Your subscription period has now expired. To continue to use websites./https://httpsrathanaphonwebsiteco-"Buy Subscription" below, or for more info login to your https://httpsrathanaphonwebsitecom account.						
+								Your subscription period has now expired. To continue to use websites./https://httpsrathanaphonwebsiteco-"Buy Subscription" below, or for more info login to your https://httpsrathanaphonwebsitecoin account.						
 							      "description": "Business As a loyal partner sell technology",
               			Buy Subcription
 							</a>
@@ -78,7 +78,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 							<br>
 							Use our
 							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsotecoin/
-							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphonwebsiteco./ App
+							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphonwebsitecoin./ App
 							</a> <i class="fab fa-android"></i>
 						</div>
 					</div>
