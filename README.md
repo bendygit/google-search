@@ -7,7 +7,7 @@
               </head><haed>
            ( hello the world )   
    <meta charset="utf-8">
-<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM
+<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM)
     <!-- Fancybox API -->
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 <meta name="gongle-signin-client-id" content="google-site-verification:
@@ -58,7 +58,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 					<div class="card shadow">
 						<div class="row">
 							<div class="col-md-4 mx-auto">
-								<img src="https://httpsrathanaphonwebsiteco/landing/img/logo_color_116x41dp.png" class="card-img-top img-responsive" alt=Rathana phone shop1"google-site-verification: googlee9c9e70123469956.html
+								<img src="https://httpsrathanaphonwebsitecoin/landing/img/logo_color_116x41dp.png" class="card-img-top img-responsive" alt=Rathana phone shop1"google-site-verification: googlee9c9e70123469956.html
 							</div>
 						</div>
 						<div class="card-body text-center">
@@ -71,13 +71,13 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 							<a href="https:// ./login" class="btn btn-outline-primary">
 								Login
 							</a>							
-							<a href="https://href=https://httpsrathanaphonwebsiteco->" class="btn btn-outline-primary" target="_blank">
+							<a href="https://href=https://httpsrathanaphonwebsitecoin->" class="btn btn-outline-primary" target="_blank">
 							</a>
 							<br>
 							Or
 							<br>
 							Use our
-							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
+							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsotecoin/
 							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphonwebsiteco./ App
 							</a> <i class="fab fa-android"></i>
 						</div>
