@@ -64,7 +64,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 						<div class="card-body text-center">
 							<h5 class="card-title">Website Subscription Expired</h5>
 							<p class="card-text">
-								Your subscription period has now expired. To continue to use websites./https://httpsrathanaphonwebsiteco-"Buy Subscription" below, or for more info login to your https://httpsrathanaphonwebsitecoin account.						
+								Your subscription period has now expired. To continue to use websites./https://httpsrathanaphonwebsitecoin-"Buy Subscription" below, or for more info login to your https://httpsrathanaphonwebsitecoin account.						
 							      "description": "Business As a loyal partner sell technology",
               			Buy Subcription
 							</a>
