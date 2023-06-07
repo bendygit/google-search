@@ -15,12 +15,12 @@ body {
 .top-bar {
   display: flex;
   align-items: center;
-  padding: 320px 30px;
+  padding: 20px 30px;
 }
 
 .content {
   flex: 1;
-  display: flex;320×30×
+  display: flex;20×30×
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -151,7 +151,7 @@ body {
 .bottom-bar {
   display: flex;
   align-items: center;
-  padding: 320px 30px;
+  padding: 20px 30px;
   background-color: #ececec;
   border-top: 1px solid #d4d4d4;
 }
