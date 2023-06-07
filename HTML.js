@@ -53,8 +53,8 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
         </nav>
 
      <section class="boxes" 
-
-         <biv class="Shop-container" 
+        "@context": "http://www.schema.org",
+         <biv class="Rathana phone Shop1-container" 
          <biv class="box 1">
          <h1>Phon Rathana</h1> 
     </biv>
@@ -97,7 +97,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 							      "description": "Business As a loyal partner sell technology",
               			Buy Subcription
 							</a>
-							<a href="https:// ./login" class="btn btn-outline-primary">
+							<a href="https://google-search./login" class="btn btn-outline-primary">
 								Login
 							</a>							
 							<a href="https://href=https://httpsrathanaphonwebsitecoin->" class="btn btn-outline-primary" target="_blank">
