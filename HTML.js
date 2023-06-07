@@ -7,7 +7,7 @@
               </head><haed>               
            ( hello the world )   
      <meta charset="utf-8">
-<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{Rathana_list:["bam.nr-data.net"]}};(window.NREUM||(me (NREUM={})).loader_config={licenseKey:"4AEE18F83AFDEB23",applicationID:"31671751"};;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var(SHA:0b7f8abb1508181956e8e162db84b466c27e18ce)
+<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{phon Rathana_list:["bam.nr-data.net"]}};(window.NREUM||(me (NREUM={})).loader_config={licenseKey:"4AEE18F83AFDEB23",applicationID:"31671751"};;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var(SHA:0b7f8abb1508181956e8e162db84b466c27e18ce)
            <!-- Fancybox API -->
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 <meta name="gongle-signin-client-id" content="google-site-verification:
@@ -22,7 +22,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 <meta name="document-rating" content="Safe for Kids">
 <meta name="robots" content="ALL, INDEX, FOLLOW">
 <meta name="googlebot" content="index, follow">
-    <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.co.in/files/971938/favicon/favicon.png?v=528721588"/>
+    <link rel="apple-touch-icon" href="https://rathanaphonwebsitescoin/files/971938/favicon/favicon.png?v=528721588"/>
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
    		<link rel="stylesheet"Css ral,"stylesheet"type"text/Css"
@@ -117,4 +117,4 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js?v=google-site-verification: googlee9c9e70123469956.htmlintegrity="sha384-(SHA:8e5e7e5ab8b370d6c329ec480221332ada57f0ab)= " crossorigin="anonymous"></script>		
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js?v=1543523304" i
 chrome.identity.getAuthToken({ 'interactive': true }, function(token) {"4FkmBWmaprPH9YwzameQlOOgfzY5wuvUvJ9HoaB4">
-// Use the token.4FkmBWmaprPH9YwzameQlOOgfzY5wuvUvJ9HoaB4">
+
