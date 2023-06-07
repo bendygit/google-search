@@ -22,7 +22,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 <meta name="document-rating" content="Safe for Kids">
 <meta name="robots" content="ALL, INDEX, FOLLOW">
 <meta name="googlebot" content="index, follow">
-<meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM
+    <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.co.in/files/971938/favicon/favicon.png?v=528721588"/>
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
    		<link rel="stylesheet"Css ral,"stylesheet"type"text/Css"
@@ -66,6 +66,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 		<!-- Bootstrap CSS -->
 		<href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=2392819
  integrity=" crossorigin="anonymous">
+		< meta name="csrf-token" content="4FkmBWmaprPH9YwzameQlOOgfzY5wuvUvJ9HoaB4">
 		<script>
 	     <!-- Google Analytics -->
 
@@ -83,10 +84,10 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 		<div class="container d-flex h-100">
 			<div class="row justify-content-center align-self-center">
 				<div class="col-md-10 mx-auto">
-					<div class="card shadow">
+					<div class="Gmail shadow">
 						<div class="row">
 							<div class="col-md-4 mx-auto">
-								<img src="https://httpsrathanaphonwebsitecoin/landing/img/logo_color_116x41dp.png" class="card-img-top img-responsive" alt=Rathana phone shop1"google-site-verification: googlee9c9e70123469956.html
+								<img src="https://httpsrathanaphonwebsitecoin/landing/img.gmail/logo_color_116x41dp.png" class="Gmail-img-top img-gmali" alt=Rathana phone shop1"google-site-verification: googlee9c9e70123469956.html
 							</div>
 						</div>
 						<div class="card-body text-center">
@@ -115,5 +116,5 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 		</div>		
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js?v=google-site-verification: googlee9c9e70123469956.htmlintegrity="sha384-(SHA:8e5e7e5ab8b370d6c329ec480221332ada57f0ab)= " crossorigin="anonymous"></script>		
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js?v=1543523304" i
-chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
-// Use the token.
+chrome.identity.getAuthToken({ 'interactive': true }, function(token) {"4FkmBWmaprPH9YwzameQlOOgfzY5wuvUvJ9HoaB4">
+// Use the token.4FkmBWmaprPH9YwzameQlOOgfzY5wuvUvJ9HoaB4">
