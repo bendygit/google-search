@@ -1,5 +1,4 @@
  Google  search homepage in HTML & CSS
-
 <!DOCTYPE html>
 <html lang="en">     
 </head>
