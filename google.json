@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "244145628679",
+    "project_id": "httpsrathanaphonwebsit.co.in",
+    "storage_bucket": "httpsrathanaphonwebsit.co.in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2",
+        "android_client_info": {
+          "package_name": "httpsrathanaphon.website.co.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244145628679-pfmritmn1g894q8eb3tgvnkn6k7niojg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "httpsrathanaphon.website.co",
+            "certificate_hash": "fe98af549c4f5e62c268cb4493cd393c1fc95c39"
+          }
+        },
+        {
+          "client_id": "244145628679-jk037krudte3qdqcno0bn4l9n9eb2s80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZwzbBslhqIFIc2c2-wJRru9PRcwpeu7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244145628679-5lpa61gqs6naujcec6om73v6hbhrlpq7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244145628679-csq4o20954jts87v9420j7p0ljo060s7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "244145628679",
+                "app_store_id": "244145628679"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244145628679:android:b099e2d820194c71396ca2",
+        "android_client_info": {
+          "package_name": "httpsrathanan.firebaseapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244145628679-n3n9ct4a6ho8uu8k4snv27dm848e3j3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "httpsrathanaphonwebsitcoin.firebaseapp.com",
+            "certificate_hash": "fe98af549c4f5e62c268cb4493cd393c1fc95c39"
+          }
+        },
+        {
+          "client_id": "244145628679-jk037krudte3qdqcno0bn4l9n9eb2s80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZwzbBslhqIFIc2c2-wJRru9PRcwpeu7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244145628679-5lpa61gqs6naujcec6om73v6hbhrlpq7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244145628679-csq4o20954jts87v9420j7p0ljo060s7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "244145628679",
+                "app_store_id": "244145628679"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
