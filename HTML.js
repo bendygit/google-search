@@ -29,7 +29,7 @@ to property="og:type" content="website"
    <link rel="apple-touch-icon" href="https://rathanaphonwebsitescoin/files/971938/favicon/favicon.png?v=528721588"/>
    <link rel="stylesheet"Css ral,"stylesheet"type"text/Css"
    <link rel="apple-touch-icon" href="https:"google search homepage/files/id googlee9c9e70123469956/favicon/favicon.png?v=goo
-           <li><a href="home page">home</a>
+                           <li><a href="home page">home</a>
 			   <li><a href="shop.html">shop</a></li>
 			   <li><a href="about.html">about kH</a><li>
 			   <li><a href="contact.html">contact</a><li>             
