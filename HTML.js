@@ -1,14 +1,24 @@
- Google  search homepage in HTML & CSS
+
 <!DOCTYPE html>
-<html lang="en">     
+<html lang="en">
+<html>  
 </head>
        <footer></footer>  
     </head><haed>
               </head><haed>               
            ("hello the world")   
     <meta charset="utf-8">
-	<script type="text/javascript" src="/script/utils.js" charset="UTF-8"> </script>
+	 <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="6o3mfq88FPLGRnIKr5-LYJCU0HEBlaS37S48w34IWe0"/ 
+    <meta name="theme-color" wm #039be5meta charset="utf-8">
+    <meta name="document-type" content="Public">
+    <meta name="document-rating" content="Safe for Kids">
+    <meta name="robots" content="ALL, INDEX, FOLLOW">
+    <meta name="googlebot" content="index, follow">
+    <meta name="web-app-capable" content="yes">
+    <meta name="apple-web-app-capable" content="yes">
+	<title>Subscription Expired</title>
+
         <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
         <link rel="stylesheet" href="css/custom.css">
@@ -16,20 +26,10 @@
    contents profile  email address.
     https://www.googleapis.com/auth/developerprofileshttps://www.googleapis.com/auth/developerprofiles.award reta property="og site name" content="google.com/googlee9c9e70123469956
 to property="og:type" content="website"
-<meta name="theme-color" wm #039be5meta charset="utf-8">
-<meta name="document-type" content="Public">
-<meta name="document-rating" content="Safe for Kids">
-<meta name="robots" content="ALL, INDEX, FOLLOW">
-<meta name="googlebot" content="index, follow">
-    <link rel="apple-touch-icon" href="https://rathanaphonwebsitescoin/files/971938/favicon/favicon.png?v=528721588"/>
-<meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-capable" content="yes">
-   		<link rel="stylesheet"Css ral,"stylesheet"type"text/Css"
-   <link rel="apple-touch-icon" href="https:"google search homepage/files/id googlee9c9e70123469956/favicon/favicon.png?v=googlee9c9e70123469956
-<meta name="theme-color" content="#FF
-        <title>Rathana phone Shop1 in  Phnom Penh </title><meta name="viewport" content="width=device-width, initial-scale=1
-<meta name="viewport" content="width=device-width, initial-scale=1">
-               <li><a href="home page">home</a>
+   <link rel="apple-touch-icon" href="https://rathanaphonwebsitescoin/files/971938/favicon/favicon.png?v=528721588"/>
+   <link rel="stylesheet"Css ral,"stylesheet"type"text/Css"
+   <link rel="apple-touch-icon" href="https:"google search homepage/files/id googlee9c9e70123469956/favicon/favicon.png?v=goo
+           <li><a href="home page">home</a>
 			   <li><a href="shop.html">shop</a></li>
 			   <li><a href="about.html">about kH</a><li>
 			   <li><a href="contact.html">contact</a><li>             
@@ -66,9 +66,9 @@ to property="og:type" content="website"
 							<br>
 							<Use our>
 							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsote.co.in/
-							.websitesapp" class="btn btn-outline-primary" target="_blank">								
+							.websites.wed.app" class="btn btn-outline-primary" target="_blank">								
 							 <a href="https//rathanaphonwebsite.co.in./website
-							</a> <i class="fab fa-google.Chrome"></i>
+							</a> <i class="fab fa-google.search"></i>
 						</div>
 					</div>
 				</div>
