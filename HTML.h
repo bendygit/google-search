@@ -14,7 +14,7 @@
 <meta name="robots" content="ALL, INDEX, FOLLOW">
 <meta name="googlebot" content="index, follow">
 <meta name="web-app-capable" content="yes">
-   <link rel="website-touch-icon" href="https:/httpsrathanaphon.website.co.in/files/971938/favicon/favicon.png?v=528721588"/>
+   <link rel="website-touch-icon" href="https:/httpsrathanaphon.website.co.inof@/files/971938/favicon/favicon.png?v=528721588"/>
 <meta name="theme-color" content="#FFFFFF">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum
 <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
