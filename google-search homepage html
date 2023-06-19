@@ -10,8 +10,8 @@
   <meta name="document-rating" content="Safe for Kids">
   <meta name="robots" content="ALL, INDEX, Follow">
   <meta name="googlebot" content="index, follow">
-  <meta name="web-serarch-capable" content="yes">
-  <meta name="web-serarch-capable" content="yes">
+  <meta name="web-app-capable" content="yes">
+  <meta name="google-serarch-capable" content="yes">
     <link rel="google-serarch-sing-in-touch-icon"
     href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=528721588"/>
   <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
@@ -25,15 +25,14 @@
   <meta property="og:title" content="Rathana phone Shop1 in  Phnom Penh">
   <meta property="og:description" content="Business As a loyal partner sell technology">
   <meta property="og:image">
-
+  <meta name="geo.placename" content="Phnom Penh">
+  <meta name="geo.region" content="KH">
      <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
      <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
      <link rel="stylesheet" href="css/custom.css">
   <link rel="https://httpsrathanaphon.websites.inof@/files/971938/business/logo/logo-1332537698.jpeg">
 
-  <meta name="geo.placename" content="Phnom Penh">
-  <meta name="geo.region" content="KH">
   <title" Rathana phone Shop1 in  Phnom Penh </title>
 
          <!-- Favicon -->
