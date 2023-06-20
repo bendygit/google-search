@@ -73,56 +73,15 @@
      <a "url": "https://httpsrathanaphon.websites.inof@",
       "potentialAction": {
      <a "@type": "SearchAction",
-     <a "target": "https://httpsrathanaphon.websites.co.in/search/all/{search_term_string}",
+     <a "target": "https://httpsrathanaphon.websites.inof@/search/all/{search_term_string}",
      <a "query-input": "required name=search_term_string"
 }
 </script>
-     
+  
      <div class="top-bar">
     <div class="container">
         <div class="row py-2 text-center">
             <div class="col-md-4 text-md-left" style="font-size: 14px;">
-                                    <i class="fas fa-phone share-icon"></i>
-                    <a class="_click_record text-dark"
-                        data-websiteid="971938"
-                        data-type="phone"
-                        title="call ">
-                        href="tel:">
-                        <span class="">                   
-                        </span>
-                    </a>
-                                <br>
-                                    <i class="fas fa-envelope share-icon"></i>
-                    <a class="_click_record text-dark"
-                        data-websiteid="5318736670"                       
-                        data-type="email"
-                        title="mail to rathanaphon29@gmail.com"
-                        href="mailto:rathanaphon29@gmail.com">
-                        <span class="word-wrap">
-                            rathanaphon29@gmail.com
-                        </span>
-                    </a>
-                            </div>
-            <div class="col-md-4  d-md-block d-none">
-                <span class="fs-15 word-wrap">
-                    Rathana phone Shop1
-                </span>
-            </div>
-            <div class="col-md-4  d-md-block d-none">
-                
-                                            <a title="view our facebook" 
-                            target="_blank" 
-                            rel="noopener nofollow" 
-                            href="https://httpsrathanaphon.websites.inof@">
-                            <i class="fab fa-facebook-f share-icon"></i>
-                        </a>
-                            target="_blank" 
-                            rel="noopener nofollow" 
-                            href=https://httpsrathanaphon.websites.inof@>
-                            <i class="fab fa-google- share-icon"></i>
-                        </a>
-                    
-                                            <a title="view our google plus" 
-                            target="_blank" 
-                            rel="noopener nofollow" 
+                <i class="fas fa-phone share-icon"></i>
+                    <a class="_click
                            
