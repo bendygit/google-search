@@ -66,17 +66,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 		<href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=2392819
  integrity=" crossorigin="anonymous">
 		<script>
-	     <!-- Google Analytics -->
-
-        <script async> 
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-            ga('create', 'A-W11068084370', 'auto'); ga('send', 'pageview');
-        </script>
-	
-		 
-	 <!-- End Google Tag Manager --> 
-		 src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js?v=4885402055 integrity=" crossorigin="anonymous"></script>
-    <!-- Google Tag Manager (noscript) -->     <noscript><iframe src="https://www.googletagmanager.com/ns.httsp://(<head></head>) js=<>/script><script>     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>     <!-- End Google Tag Manager (noscript) -->
+	  
 	</head>
 	<body style="height:100vh; background-color:#eee">
 		<div class="container d-flex h-100">
