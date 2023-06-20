@@ -66,3 +66,12 @@
              <li>-<a href="business sales tecnology"</li>
              <li>-<a href="smart phone teblet"</li>
              <li>-<a href="welcome to Rathana phone shop1"</li>
+  </header>
+<body>
+     <a "@context": "https://schema.org",
+     <a "@type": "WebSite",
+     <a "url": "https://httpsrathanaphon.websites.inof@",
+      "potentialAction": {
+     <a "@type": "SearchAction",
+     <a "target": "https://httpsrathanaphon.websites.co.in/search/all/{search_term_string}",
+     <a "query-input": "required name=search_term_string"
