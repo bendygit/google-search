@@ -42,7 +42,7 @@ body {
 }
 
 .menu a {
-  color: #2d2d2d;
+  color:antiquewhite;
   text-decoration: none;
   margin-right: 15px;
 }
@@ -54,7 +54,7 @@ body {
 .app-toggle {
   margin-right: 15px;
   text-decoration: none;
-  color: #2d2d2d;
+  color: white;
   font-size: 25px;
 }
 
@@ -83,7 +83,7 @@ body {
 .search-bar input {
   height: 50px;
   width: 100%;
-  border: 1px solid #d0d0d0;
+  border: 1px wheat;
   border-radius: 100px;
   padding: 0 50px;
   outline: 0;
@@ -93,7 +93,7 @@ body {
 }
 
 .search-bar input:focus {
-  box-shadow: 0 0 10px -4px #888888;
+  box-shadow: 0 0 10px -4px;
 }
 
 .search-bar .search-icon {
@@ -105,7 +105,7 @@ body {
   top: 0;
   display: flex;
   font-size: 20px;
-  color: #888888;
+  color: wheat;
 }
 
 .search-bar .search-icon.right {
@@ -117,7 +117,7 @@ body {
 }
 
 .search-info a {
-  color: #3f50b5;
+  color: white;
   text-decoration: none;
 }
 
@@ -134,7 +134,7 @@ body {
   text-decoration: none;
   margin-right: 15px;
   background-color: #ececec;
-  color: black;
+  color: whitesmoke;
   padding: 10px 15px;
   border-radius: 3px;
   border: 1px solid rgba(0, 0, 0, 0);
@@ -145,13 +145,13 @@ body {
 }
 
 .search-buttons a:hover {
-  border: 1px solid #8c8c8c;
+  border: 1px white;
 }
 
 .bottom-bar {
   display: flex;
   align-items: center;
   padding: 20px 30px;
-  background-color: #ececec;
-  border-top: 1px solid #d4d4d4;
+  background-color:wheat;
+  border-top: 1px  wheat;
 }
