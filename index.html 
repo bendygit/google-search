@@ -110,10 +110,7 @@
 				</div>
 			</div>
 		</div>		
-		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js?v=google-site-verification: googlee9c9e70123469956.htmlintegrity="sha384-(SHA:8e5e7e5ab8b370d6c329ec480221332ada57f0ab)= " crossorigin="anonymous"></script>		
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js?v=1543523304" i
-chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
-// Use the token.
+
 
   
    
