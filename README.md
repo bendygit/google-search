@@ -28,28 +28,23 @@
   <meta property="og:image">
   <meta name="geo.placename" content="Phnom Penh">
   <meta name="geo.region" content="KH">
-      <title" Rathana phone Shop1 in  Phnom Penh </title>
- 
+      <title" Rathana phone Shop1 in  Phnom Penh </title> 
      <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
      <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
      <link rel="stylesheet" href="css/custom.css">
      <link rel="https://httpsrathanaphon.websites.inof@/files/971938/business/logo/logo-1332537698.jpeg">
-
          <!-- Google font -->
         <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
          <!-- BS4 minified v1.0.0 CSS -->
         <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/bootstrap.min.css">
          <!-- Custom minified CSS -->
-        <link rel="stylesheet" href="eventEditData: {
-    
+        <link rel="stylesheet" href="eventEditData: {    
          <!-- Favicon -->
-    <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" 
-    type="image/png"/>
+    <link rel="icon href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=107814
     <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-Shop/css/ecommerce.min.css?v=1627190672">
          <!-- Fancybox API -->
     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
-</head>
- 
+</head> 
  </body>
          <!-- header homepga -->
       </header>
@@ -58,7 +53,6 @@
            <img src="images/gmail jpg">
         </div>
         <div class="box-logo"
-
   </header>
 <body>
      <a "@context": "https://schema.org",
@@ -86,8 +80,7 @@
 							<h5 class="card-title">Website Subscription</h5>
 							  <p class="card-text">
 								<p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof@-" account.						
-							      "description": "Business As a loyal partner sell technology",
-              		<Buy Subcription"">
+ "description": "Business As a loyal partner sell technology" gb65<Buy Subcription"">
 							</a>
 							<a href="https://httpsrathanaphon.website.inof@/login">
               <div class="btn btn-outline-primary">
@@ -103,17 +96,14 @@
 							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.inof@/
 							"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphon.website.inof@/ App
-							</a> <i class="fab fa-android"></i>
+							</a> <i class="fab fa-search"></i>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>		
-		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js?v=google-site-verification: googlee9c9e70123469956.htmlintegrity="sha384-(SHA:8e5e7e5ab8b370d6c329ec480221332ada57f0ab)= " crossorigin="anonymous"></script>		
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js?v=1543523304" i
-chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
-// Use the token.
-
+		</div>			
+    <body>
+<html>
   
    
 
