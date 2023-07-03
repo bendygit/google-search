@@ -29,6 +29,9 @@
   <meta name="geo.placename" content="Phnom Penh">
   <meta name="geo.region" content="KH">
       <title" Rathana phone Shop1 in  Phnom Penh </title> 
+         <!-- Favicon -->
+     <link rel="icon"
+    href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />    
      <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
      <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
      <link rel="stylesheet" href="css/custom.css">
@@ -76,11 +79,11 @@
                   <div class="card-img-top img-responsive" alt=Rathana phone shop1">
 							</div>
 						</div>
-						<div class="card-body text-center">
+						<div class="Card-body text-center">
 							<h5 class="card-title">Website Subscription</h5>
 							  <p class="card-text">
 								<p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof@-" account.						
- "description": "Business As a loyal partner sell technology" gb65<Buy Subcription"">
+ "description": "Business As a loyal partner sell technology"<Buy Subcription"">
 							</a>
 							<a href="https://httpsrathanaphon.website.inof@/login">
               <div class="btn btn-outline-primary">
