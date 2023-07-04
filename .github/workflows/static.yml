@@ -11,8 +11,8 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: website "
-  pages: https://httpsrathanaphon.website.info@noreply.github.com " 
+  contents: red
+  pages: write  
   id-token: write
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
