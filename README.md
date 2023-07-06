@@ -13,7 +13,7 @@
   <meta name="googlebot" content="index, follow">
   <meta name="web-app-capable" content="yes">
   <meta name="google-serarch-capable" content="yes">
-    <link rel="google-serarch-sing-in-touch-icon"
+  <link rel="google-serarch-sing-in-touch-icon"
     href="https://httpsrathanaphon.websites.inof@/files/5318736670/favicon/favicon.png?v="/>
   <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5318736670">
@@ -47,17 +47,8 @@
     <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-Shop/css/ecommerce.min.css?v=1627190672">
          <!-- Fancybox API -->
     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
-</head> 
- </body>
-         <!-- header homepga -->
-      </header>
-      </div class="box-logo"
-           <img src="images/logo.png">
-           <img src="images/gmail jpg">
-        </div>
-        <div class="box-logo"
-  </header>
-<body>
+</header>
+</body>
      <a "@context": "https://schema.org",
      <a "@type": "WebSite",
      <a "url": "https://httpsrathanaphon.websites.inof@",
@@ -105,7 +96,7 @@
 				</div>
 			</div>
 		</div>			
-    <body>
+       <body>
 <html>
   
    
