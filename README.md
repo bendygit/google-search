@@ -84,7 +84,7 @@
 							<a href="https://httpsrathanaphon.website.inof@/login">
               <div class="btn btn-outline-primary">
 							<Login>
-							</a>							
+							</a>					
 							<a href="https://httpsrathanaphon.website.inof@"> 
                <div class="btn btn-outline-primary" target="_blank">
 							</a>
@@ -101,7 +101,7 @@
 				</div>
 			</div>
 		</div>			
-   <body>
+        <body>
 <html>
   
    
