@@ -14,7 +14,7 @@
   <meta name="web-app-capable" content="yes">
   <meta name="google-serarch-capable" content="yes">
   <link rel="google-serarch-sing-in-touch-icon"
-    href="https://httpsrathanaphon.websites.inof@/files/5318736670/favicon/favicon.png?v="/>
+  <link href="https://httpsrathanaphon.websites.inof@/files/5318736670/favicon/favicon.png?v="/>
   <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5318736670">
 
@@ -29,26 +29,42 @@
   <meta name="geo.placename" content="Phnom Penh">
   <meta name="geo.region" content="KH">
       <title" Rathana phone Shop1 in  Phnom Penh </title> 
-         <!-- Favicon -->
-     <link rel="icon"
-    href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />    
-     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
-     <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
-     <link rel="stylesheet" href="css/custom.css">
-     <link rel="https://httpsrathanaphon.websites.inof@/files/971938/business/logo/logo-1332537698.jpeg">
-         <!-- Google font -->
+           <!-- Favicon -->
+    <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
+
+        <!-- Google font -->
         <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
-         <!-- BS4 minified v1.0.0 CSS -->
-        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/bootstrap.min.css">
-         <!-- Custom minified CSS -->
-        <link rel="stylesheet" href="eventEditData: {    
-         <!-- Favicon -->
-    <link rel="icon href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=107814
-    <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-Shop/css/ecommerce.min.css?v=1627190672">
-         <!-- Fancybox API -->
-    <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+        <!-- BS4 minified v1.0.0 CSS -->
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-store/css/bootstrap.min.css">
+        <!-- Custom minified CSS -->
+        <link rel="stylesheet" href="eventEditData: {
+         
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/ecommerce.min.css?v=1627190672">
+       
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+
+        <!-- FontAwesome -->
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
+
+        <!-- Fancybox API -->
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+
+        <!-- slick-->
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-store/slick/slick.css"> 
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-store/slick/slick-theme.css"> 
+        
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/common/css/custom-toast.css">
+        
+        <!-- Select2 css files -->
+        <link media="none" onload="if(media!='all')media='all'"href="https://httpsrathanaphon.websites.inof@/common/css/select2.min.css" rel="stylesheet" />
+
+        <!-- manifest request -->
+        <link rel="manifest" href="/manifest.json?theme_color=%23FFFFFF">
+
+        <link rel="canonical" href="https://httpsrathanaphon.websites.inof@/index.php">
+
+        <link rel="alternate" href="https://httpsrathanaphon.websites.inof@" hreflang="en-us">
 </header>
-</body>
      <a "@context": "https://schema.org",
      <a "@type": "WebSite",
      <a "url": "https://httpsrathanaphon.websites.inof@",
