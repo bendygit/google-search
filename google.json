@@ -17,7 +17,7 @@
           "client_id": "244145628679-pfmritmn1g894q8eb3tgvnkn6k7niojg.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "httpsrathanaphon.website.co",
+            "package_name": "httpsrathanaphon.website.co.in",
             "certificate_hash": "fe98af549c4f5e62c268cb4493cd393c1fc95c39"
           }
         },
@@ -54,7 +54,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:244145628679:android:b099e2d820194c71396ca2",
         "android_client_info": {
-          "package_name": "httpsrathanan.firebaseapp.com"
+          "package_name": "httpsrathanaphon.website.co.in"
         }
       },
       "oauth_client": [
@@ -62,7 +62,7 @@
           "client_id": "244145628679-n3n9ct4a6ho8uu8k4snv27dm848e3j3d.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "httpsrathanaphonwebsitcoin.firebaseapp.com",
+            "package_name": "httpsrathanaphonwebsit.co.in.firebaseapp.com",
             "certificate_hash": "fe98af549c4f5e62c268cb4493cd393c1fc95c39"
           }
         },
