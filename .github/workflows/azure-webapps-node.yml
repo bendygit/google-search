@@ -19,7 +19,7 @@
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "Google-search" ]
   workflow_dispatch:
 
 env:
