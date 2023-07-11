@@ -37,7 +37,7 @@
         <!-- Google font -->
         <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
         <!-- BS4 minified v1.0.0 CSS -->
-        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-store/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/bootstrap.min.css">
         <!-- Custom minified CSS -->
         <link rel="stylesheet" href="eventEditData: {         
         <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/ecommerce.min.css?v=1627190672">       
@@ -81,8 +81,8 @@
 						<div class="Card-body text-center">
 							<h5 class="card-title">Website Subscription</h5>
 							  <p class="card-text">
-								<p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof@-" account.				
- "description": "Business As a loyal partner sell technology"<Buy Subcription"">
+								<p subscription""To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof@-"account.				
+"description": "Business As a loyal partner sell technology"<Buy Subcription"">
 							</a>
 							<a href="https://httpsrathanaphon.website.inof@/login">
               <div class="btn btn-outline-primary">
@@ -96,7 +96,7 @@
 							<br>
 							<Use our>
 <a href="https://play.google.com/Shop/apps/details
-id=https://httpsrathanaphon.websote.inof@/"websitesapp" 
+id=5190574364 https://httpsrathanaphon.websote.inof@/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphon.website.inof@/App
 							</a> <i class="fab fa-search"></i>
 						</div>
