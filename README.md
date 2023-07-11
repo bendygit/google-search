@@ -28,6 +28,9 @@
   <meta property="og:image">
   <meta name="geo.placename" content="Phnom Penh">
   <meta name="geo.region" content="KH">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
+  <link rel="stylesheet" href="css/custom.css">   
       <title" Rathana phone Shop1 in  Phnom Penh </title> 
         <!-- Favicon -->
     <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
@@ -72,9 +75,9 @@
 						<div class="row">
 							<div class="col-md-4 mx-auto">
 								<img src="https://httpsrathanaphonwebsite.inof@/landing/img/logo_color_116x41dp.png" 
-                                   <div class="card-img-top img-responsive" alt=Rathana phone shop1">
-							</div>
+              <div class="card-img-top img-responsive" alt=Rathana phone shop1">
 						</div>
+					</div>
 						<div class="Card-body text-center">
 							<h5 class="card-title">Website Subscription</h5>
 							  <p class="card-text">
@@ -84,7 +87,7 @@
 							<a href="https://httpsrathanaphon.website.inof@/login">
               <div class="btn btn-outline-primary">
 							<Login>
-							</a>					
+							</a>				
 							<a href="https://httpsrathanaphon.website.inof@"> 
                <div class="btn btn-outline-primary" target="_blank">
 							</a>
@@ -92,7 +95,8 @@
 							<Or>
 							<br>
 							<Use our>
-							<a href="https://play.google.com/Shop/apps/details?id=https://httpsrathanaphon.websote.inof@/"websitesapp" 
+<a href="https://play.google.com/Shop/apps/details
+id=https://httpsrathanaphon.websote.inof@/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphon.website.inof@/App
 							</a> <i class="fab fa-search"></i>
 						</div>
@@ -100,7 +104,7 @@
 				</div>
 			</div>
 		</div>			
-   <body>
+  <body>
 <html>
   
    
