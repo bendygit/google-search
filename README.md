@@ -35,27 +35,27 @@
         <!-- Favicon -->
     <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
         <!-- Google font -->
-        <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
+    <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
         <!-- BS4 minified v1.0.0 CSS -->
-        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/bootstrap.min.css">
         <!-- Custom minified CSS -->
-        <link rel="stylesheet" href="eventEditData: {         
-        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/ecommerce.min.css?v=1627190672">       
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+     <link rel="stylesheet" href="eventEditData: {         
+     <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/ecommerce.min.css?v=1627190672">       
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
         <!-- FontAwesome -->
-        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
+      <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
         <!-- Fancybox API -->
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
         <!-- slick-->
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-store/slick/slick.css"> 
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-store/slick/slick-theme.css">         
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/common/css/custom-toast.css">        
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-store/slick/slick.css"> 
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-store/slick/slick-theme.css">         
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/common/css/custom-toast.css">        
         <!-- Select2 css files -->
-        <link media="none" onload="if(media!='all')media='all'"href="https://httpsrathanaphon.websites.inof@/common/css/select2.min.css" rel="stylesheet" />
+     <link media="none" onload="if(media!='all')media='all'"href="https://httpsrathanaphon.websites.inof@/common/css/select2.min.css" rel="stylesheet" />
         <!-- manifest request -->
-        <link rel="manifest" href="/manifest.json?theme_color=%23FFFFFF">
-        <link rel="canonical" href="https://httpsrathanaphon.websites.inof@/index.php">
-        <link rel="alternate" href="https://httpsrathanaphon.websites.inof@" hreflang="en-us">
+     <link rel="manifest" href="/manifest.json?theme_color=%23FFFFFF">
+     <link rel="canonical" href="https://httpsrathanaphon.websites.inof@/index.php">
+     <link rel="alternate" href="https://httpsrathanaphon.websites.inof@" hreflang="en-us">
 </header>
      <a "@context": "https://schema.org",
      <a "@type": "WebSite",
