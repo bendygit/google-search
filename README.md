@@ -44,7 +44,7 @@
      <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/ecommerce.min.css?v=1627190672">       
      <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
         <!-- FontAwesome -->
-      <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
+    <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
         <!-- Fancybox API -->
      <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
         <!-- slick-->
