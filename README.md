@@ -76,16 +76,18 @@
 						<div class="row">
 							<div class="col-md-4 mx-auto">
 								<img src="https://httpsrathanaphonwebsite.inof@/landing/img/logo_color_116x41dp.png" 
-              <div class="card-img-top img-responsive" alt=Rathana phone shop1">
+            <div class="card-img-top img-responsive" alt=Rathana phone shop1">
+              <img class="business-logo mr-3" 				src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"alt="Rathana phone Shop1">
+					</a>
 						</div>
 					</div>
 						<div class="Card-body text-center">
-							<h5 class="card-title">Website Subscription</h5>
+							<h5 class="card-title">
 							  <p class="card-text">
 								<p subscription""To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof@-"account.				
 "description": "Business As a loyal partner sell technology"<Buy Subcription"">
 							</a>
-							<a href="https://httpsrathanaphon.website.inof@/login">
+						<a href="https://httpsrathanaphon.website.inof@/login">
               <div class="btn btn-outline-primary">
 							<Login>
 							</a>				
@@ -96,7 +98,7 @@
 							<Or>
 							<br>
 							<Use our>
-<a href="https://play.google.com/Shop/apps/details
+<a href="https://play.google.com/Store/apps/details
 id=5190574364 https://httpsrathanaphon.websote.inof@/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.inof@/App
 							</a> <i class="fab fa-search"></i>
