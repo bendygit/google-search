@@ -78,9 +78,9 @@
 								<img src="https://httpsrathanaphonwebsite.inof@/landing/img/logo_color_116x41dp.png" 
             <div class="card-img-top img-responsive" alt=Rathana phone shop1">
               <img class="business-logo mr-3" 				src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"alt="Rathana phone Shop1">
-					</a>
-						</div>
+				   	</a>
 					</div>
+				</div>
 						<div class="Card-body text-center">
 							<h5 class="card-title">
 							  <p class="card-text">
