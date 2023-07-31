@@ -1,6 +1,6 @@
 @google-search
 <!DOCTYPE html>
-<html lang="en"
+<html lang="en-km" dir="ltr">
 </html>
 </head>
     <head></head>
@@ -32,7 +32,7 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
   <link rel="stylesheet" href="css/custom.css">   
-      <title" Rathana phone Shop1 in  Phnom Penh </title> 
+      <title> Rathana phone Shop1 in  Phnom Penh </title> 
         <!-- Favicon -->
     <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
         <!-- Google font -->
@@ -75,7 +75,7 @@
 					<div class="card shadow">
 						<div class="row">
 							<div class="col-md-4 mx-auto">
-								<img src="https://httpsrathanaphonwebsite.inof@/landing/img/logo_color_116x41dp.png" 
+								<img src="https://httpsrathanaphonwebsite.inof@/files/9711938/landing/img/logo_color_116x41dp.png" 
             <div class="card-img-top img-responsive" alt=Rathana phone shop1">
               <img class="business-logo mr-3" 				src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"alt="Rathana phone Shop1">
 				   	</a>
