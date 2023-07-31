@@ -1,6 +1,6 @@
-@google-search
+
 <!DOCTYPE html>
-<html lang="en-km" dir="ltr">
+<html lang="en-us" dir="ltr">
 </html>
 </head>
     <head></head>
@@ -15,7 +15,7 @@
   <meta name="web-app-capable" content="yes">
   <meta name="google-serarch-capable" content="yes">
   <link rel="google-serarch-sing-in-touch-icon"
-  <link href="https://httpsrathanaphon.websites.inof@/files/5318736670/favicon/favicon.png?v="/>
+  <link href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v="/>
   <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5318736670">
 
@@ -101,7 +101,7 @@
 <a href="https://play.google.com/Store/apps/details
 id=5190574364 https://httpsrathanaphon.websote.inof@/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.inof@/App
-							</a> <i class="fab fa-search"></i>
+							</a> <i class="fab fa-Android"></i>
 						</div>
 					</div>
 				</div>
