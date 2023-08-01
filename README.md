@@ -78,7 +78,7 @@
 					<div class="card shadow">
 						<div class="row">
 							<div class="col-md-4 mx-auto">
-								<img src="https://httpsrathanaphonwebsite.inof@/files/9711938/landing/img/logo_color_116x41dp.png" 
+								<img src="https://httpsrathanaphonwebsite.info/files/9711938/landing/img/logo_color_116x41dp.png" 
           <div class="card-img-top img-responsive" alt=Rathana phone shop1">
              <img class="bussing-brand-logo-">
 								<nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
