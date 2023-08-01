@@ -114,7 +114,7 @@
   							<input type="text"laceholder="Message text">
   					</div>
   						<button class="button_1" type="submit">Send</button>					
-							<Use our>
+							<User name>
 <a href="https://play.google.com/Store/apps/details
 id=5190574364 https://httpsrathanaphon.websote.info/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.info/App
