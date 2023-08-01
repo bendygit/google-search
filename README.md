@@ -33,6 +33,9 @@
   <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
   <link rel="stylesheet" href="css/custom.css">   
       <title> Rathana phone Shop1 in  Phnom Penh </title> 
+        <!-- brand logo -->
+    <img class="td-none text-center">
+       <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152" 
         <!-- Favicon -->
     <link rel="icon" href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
         <!-- Google font -->
@@ -76,27 +79,41 @@
 						<div class="row">
 							<div class="col-md-4 mx-auto">
 								<img src="https://httpsrathanaphonwebsite.inof@/files/9711938/landing/img/logo_color_116x41dp.png" 
-            <div class="card-img-top img-responsive" alt=Rathana phone shop1">
-              <img class="business-logo mr-3" 				src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"alt="Rathana phone Shop1">
-				   	</a>
-					</div>
-				</div>
+          <div class="card-img-top img-responsive" alt=Rathana phone shop1">
+             <img class="bussing-brand-logo-">
+								<nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+		  		</div>
 						<div class="Card-body text-center">
 							<h5 class="card-title">
 							  <p class="card-text">
 								<p subscription""To continue to use websites./https://httpsrathanaphon.website.info-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.info-"account.				
 "description": "Business As a loyal partner sell technology"<Buy Subcription"">
+ </form>
+          <input type="email" placeholder="Enter Email..." required>
+          <button type="submit" class="button_1">Subscribe</button>
+   </form>
 							</a>
-						<a href="https://httpsrathanaphon.website.info/login">
-              <div class="btn btn-outline-primary">
+					<a href="https://httpsrathanaphon.website.info/login">
+            <div class="btn btn-outline-primary">
 							<Login>
 							</a>				
-							<a href="https://httpsrathanaphon.website.info"> 
-               <div class="btn btn-outline-primary" target="_blank">
-							</a>
-							<br>
-							<Or>
-							<br>
+					<a href="https://httpsrathanaphon.website.info"> 
+             <div class="btn btn-outline-primary" target="_blank">
+					 </div>
+							<div>
+  							<label>Name</label><br>
+  							<input type="text" placeholder="Name">
+  					</div>
+  						<div>
+  							<label>Email</label><br>
+  							<input type="text" placeholder="Email Address">
+  					</div>
+  						<div>
+  							<label>Message</label><br>
+  							<input type="text"laceholder="Message text">
+  					</div>
+  						<button class="button_1" type="submit">Send</button>					
 							<Use our>
 <a href="https://play.google.com/Store/apps/details
 id=5190574364 https://httpsrathanaphon.websote.info/"websitesapp" 
