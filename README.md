@@ -13,8 +13,8 @@
   <meta name="robots" content="ALL, INDEX, Follow">
   <meta name="googlebot" content="index, follow">
   <meta name="web-app-capable" content="yes">
-  <meta name="google-serarch-capable" content="yes">
-  <link rel="google-serarch-sing-in-touch-icon"
+  <meta name="mobile-app-capable" content="yes">
+  <link href=apple-app-touch-icon" content=yes">
   <link href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.png?v="/>
   <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5318736670">
