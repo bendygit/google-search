@@ -73,7 +73,7 @@
 }
 </script>
 	</head>
-	<body style="height:100vh; background-color:#eee">
+	<body style="height: 640px;width: 320px background-color:#fffff">
 		<div class="container d-flex h-100">
 			<div class="row justify-content-center align-self-center">
 				<div class="col-md-10 mx-auto">
