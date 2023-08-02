@@ -3,12 +3,14 @@
 <html lang="en-us" dir="ltr">
 </html>
 </head>
+  </body>
+       <footer></footer>  
     <head></head>
-          <head></head>
+        <head></head>
        ( "hello would" )
   <meta charset="utf-8"
   <meta http-equiv="compatible"content"iE=edgh">
-  <meta name="document-type" c
+  <meta name="document-type" c">
   <meta name="document-rating" content="Safe for Kids">
   <meta name="robots" content="ALL, INDEX, Follow">
   <meta name="googlebot" content="index, follow">
