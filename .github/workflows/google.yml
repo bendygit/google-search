@@ -14,7 +14,7 @@ name: Build and Deploy to GKE
 
 on:
   push:
-    branches: [ "https//phonrathana.github.io/google-search" ]
+    branches: [ "https://phonrathana.github.io/website.info" ]
 
 env:
   PROJECT_ID: ${{ secrets.GKE_PROJECT }}
