@@ -90,7 +90,7 @@ margin-right: 15px;
 
 text-decoration: none;
 
-color: #2d2d2d;
+color:#2d2d2d;
 
 font-size: 25px;
 
@@ -98,7 +98,7 @@ font-size: 25px;
 
 .profile-trigger img {
 
-width: 40px;
+width: 640px;
 
 border-radius: 100%;
 
@@ -106,7 +106,7 @@ border-radius: 100%;
 
 .search-wrapper {
 
-width: 600px;
+width: 640px;
 
 display: flex;
 
@@ -116,9 +116,9 @@ align-items: center;
 
 }
 
-.search-logo img {
+.profiles.logo.images {
 
-width: 400px;
+width: 320px;
 
 }
 
@@ -176,7 +176,7 @@ top: 0;
 
 display: flex;
 
-font-size: 20px;
+font-size: 1280px;
 
 color: #888888;
 
@@ -212,7 +212,7 @@ text-decoration: underline;
 
 display: flex;
 
-margin-bottom: 30px;
+margin-bottom: 640px;
 
 }
 
@@ -252,7 +252,7 @@ display: flex;
 
 align-items: center;
 
-padding: 20px 30px;
+padding: 640px 320px;
 
 background-color: #ececec;
 
