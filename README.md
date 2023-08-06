@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en-us" dir="ltr">
+<html lang="en-us dir="ltr">
 </html>
 </head>
   </body>
@@ -35,7 +35,11 @@
   <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
   <link rel="stylesheet" href="css/custom.css">   
       <title> Rathana phone Shop1 in  Phnom Penh </title> 
-        <!-- brand logo -->
+	</head>
+	   </body>
+	</head>		
+     <h1>My photo profiles</h1>
+        <!-- brand logo My photo profiles -->
     <img class="td-none text-center">
        <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152" 
         <!-- Favicon -->
@@ -106,6 +110,10 @@
 							<div>
   							<label>Name</label><br>
   							<input type="text" placeholder="Name">
+						</div>
+							<div>
+								<label>lastlName</label><br>
+  							<input type="text" placeholder="lastName">
   					</div>
   						<div>
   							<label>Email</label><br>
@@ -119,7 +127,7 @@
 							<User name>
 <a href="https://play.google.com/Store/apps/details
 id=5761455231/https://httpsrathanaphon.websote.info/"websitesapp" 
-<div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.info/App
+<div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.info
 							</a> <i class="fab fa-Android"></i>
 						</div>
 					</div>
