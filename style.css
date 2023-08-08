@@ -65,7 +65,7 @@ body {
      height:460px;
      width:380px;
 }
-   #wrapper {
+   #search-wrapper {
     list-style: none;
     padding:0%;
     border: #cccccc solid 1px;
@@ -79,7 +79,7 @@ body {
     background-color:coral #cccccc;
     text-align: center;
 } 
-  #My.profiles.h1{
+  #My.profiles.barnd-logo.h1{
     Width:100px;
     height: content;
 }
@@ -92,7 +92,7 @@ body {
     width:100%;
     margin-bottom:0px;
 }
-  #img.My.photos {
+  #image.My.photos {
     display: block;
     background-image: url();
     content: icon;
