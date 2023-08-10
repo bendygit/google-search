@@ -30,9 +30,7 @@
   <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
   <link rel="stylesheet" href="css/custom.css">   
       <title> Rathana phone Shop1 in  Phnom Penh </title> 
-	</head>
-	   </body>
-	</head>		
+	</head>	
      <h1>My photo profiles</h1>
         <!-- brand logo My photo profiles -->
     <img class="td-none text-center">
