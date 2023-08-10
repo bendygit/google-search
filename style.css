@@ -1,0 +1,110 @@
+body {
+    background-image: Square();
+    display: block;
+    width: 360px;
+    height: 480px;
+    margin:0;
+    background-color:#f4f4f4;
+}
+   /* profiles.logo.jpeg*/
+   .container image {
+     width:460%;
+     height:380px;
+     margin:auto;
+     overflow:hidden;
+}
+  .ul {
+     margin:0;
+     padding:0;
+}
+  .button_1{
+     height:0%;
+     width: 0%;
+     background:white #ffff;
+     border:0%;
+     padding-left: 20px;
+     padding-right:20px;
+     color:#ffffff;
+}   
+   .container image{
+    color:#ffffff;
+    text-decoration:none;
+    text-transform: uppercase;
+    font-size:16px;
+}
+  /* profiles.logo.jpeg */
+  #profiles.logo.jpeg {
+    height:460px;
+    width: 380px;
+    background:url('../img/Myphoto.profiles.jpeg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image:center;
+    background-image:center ;
+    list-style-image: var(logo);
+    color:#ffffff;
+} 
+   #search-bar {
+    font-size:0px;
+}
+   /*my photos */
+     #profiles-logo-jpeg {
+     padding:360px;
+     color:#ffffff;
+     background:#f4f4f4;
+}
+  .My.photos h1{
+     float:Central;
+}
+   #profiles.container h1 {
+     float:central;
+     margin-top:15px;
+}
+   #My.photos h1[type="email"]{
+     padding:0px;
+     height:460px;
+     width:380px;
+}
+   #search-wrapper {
+    list-style: none;
+    padding:0%;
+    border: #cccccc solid 1px;
+    margin-bottom:0px;
+    background-image: #e6e6e6;
+}
+  .My.photo h1{
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color:coral #cccccc;
+    text-align: center;
+} 
+  #My.profiles.barnd-logo.h1{
+    Width:100px;
+    height: content;
+}
+  #style {
+    display:block;
+    width:100%;
+    height:100%;
+}
+  #input[type="email"], .quote input, .quote textarea{
+    width:100%;
+    margin-bottom:0px;
+}
+  #image.My.photos {
+    display: block;
+    background-image: url();
+    content: icon;
+} 
+  #backgroud {
+    height: 0%;
+    width: 0%;
+}
+  #image.My.photo h1 {
+    width: 360px;
+    height: 480px;
+    background-color: #ffff;
+    background: #ffffff;
+    background-clip: border-box;
+}
