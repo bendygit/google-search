@@ -6,9 +6,9 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "https/phonrathana.github.io/google-search" branch
   push:
-    branches: [ "https/phonrathana.github.io/google-search" ]
+    branches: [ "mani" ]
   pull_request:
-    branches: [ "https/phonrathana.github.io/google-search" ]
+    branches: [ "mani" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
