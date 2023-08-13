@@ -1,16 +1,11 @@
 
 <!DOCTYPE html>
-<html lang="en-us dir="ltr">
+<html lang="en">
 </html>
 </head>
-  </body>
-       <footer></footer>  
-    <head></head>
-        <head></head>
        ( "hello would" )
-  <meta charset="utf-8"
-  <meta http-equiv="compatible"content"iE=edgh">
-  <meta name="document-type" c">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="document-rating" content="Safe for Kids">
   <meta name="robots" content="ALL, INDEX, Follow">
   <meta name="googlebot" content="index, follow">
@@ -35,13 +30,11 @@
   <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
   <link rel="stylesheet" href="css/custom.css">   
       <title> Rathana phone Shop1 in  Phnom Penh </title> 
-	</head>
-	   </body>
-	</head>		
+	</head>	
      <h1>My photo profiles</h1>
         <!-- brand logo My photo profiles -->
     <img class="td-none text-center">
-       <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152" 
+       <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"width="300px height="100px>
         <!-- Favicon -->
     <link rel="icon" href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
         <!-- Google font -->
@@ -95,7 +88,7 @@
 							  <p class="card-text">
 								<p subscription""To continue to use websites./https://httpsrathanaphon.website.info-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.info-"account.				
 "description": "Business As a loyal partner sell technology"<Buy Subcription"">
- </form>
+   </form>
           <input type="email" placeholder="Enter Email..." required>
           <button type="submit" class="button_1">Subscribe</button>
    </form>
@@ -107,12 +100,12 @@
 					<a href="https://httpsrathanaphon.website.info"> 
              <div class="btn btn-outline-primary" target="_blank">
 					 </div>
-							<div>
+						<div>
   							<label>Name</label><br>
   							<input type="text" placeholder="Name">
-						</div>
-							<div>
-								<label>lastlName</label><br>
+					</div>
+						<div>
+							<label>lastlName</label><br>
   							<input type="text" placeholder="lastName">
   					</div>
   						<div>
