@@ -34,7 +34,7 @@
      <h1>My photo profiles</h1>
         <!-- brand logo My photo profiles -->
     <a href="https://httpsrathanaphon.websites.co.in" class="logo logo-img-3x">
-       <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"width="300px height="100px">title≠Ratha.phone.Shop1">
+       <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"width="300px height="100px">title=Ratha.phone.Shop1">
         <!-- Favicon -->
     <link rel="icon" href="https://httpsrathanaphon.websites.co.in/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
         <!-- Google font -->
