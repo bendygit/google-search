@@ -1,4 +1,4 @@
-   exploit = '{"root": { "email": "rathaphon29@gmail.com", "password": "pass"}}'; 
+    exploit = '{"root": { "email": "rathaphon29@gmail.com", "password": "pass"}}'; 
     exploit2 = '{ "val": [{ "email": "rathaphon29@gmail.com", "password": "pass") }'    
     user = '("email": "rathaphon29@gmail.com", "password": "pass")'; 
   
