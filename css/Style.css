@@ -2,7 +2,7 @@ body {
   background-image: Square();
   display: block;
 /* profiles.logo.img */
-.profiles.Logo.jpeg {
+ #profiles.Logo.jpeg {
   min-height:780px;
   height: 800px;
   background:url('../img/profiles.logo.jpeg') no-repeat;
@@ -16,7 +16,8 @@ body {
   font-size:100%;
   margin-bottom:10px;
 }
- #Rathana.phone.Shop1 p{
+ /*logo*/
+ #Rathana.phone.Shop1 P{
   font-size:20px;
   text-align: center;
   margin-left: auto;
@@ -43,6 +44,15 @@ body {
   font-size:20px;
   margin: square;
 }
-
-
- 
+ #bottom.Follow {
+  width: 30px;
+  height: 30px;
+  margin-left: auto;
+  color: blue;
+ }
+ #bottom.sumit {
+  width: 10px;
+  height: 10px;
+  margin-top: auto;
+ }
+}
