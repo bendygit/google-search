@@ -3,8 +3,8 @@ body {
   display: block;
 /* profiles.logo.img */
 .profiles.Logo.jpeg {
-  min-height:700px;
-  height: 700px;
+  min-height:780px;
+  height: 800px;
   background:url('../img/profiles.logo.jpeg') no-repeat;
   background-position: center;
   background-size: cover;
@@ -34,12 +34,12 @@ body {
  color:#ffffff;
 }
  #img {
-  white-space: 700px;
-  height: 700px;
+  white-space: 780px;
+  height: 800px;
   text-align: center;
   margin: square;
  } 
- #showcase p{
+ #logo.p{
   font-size:20px;
   margin: square;
 }
