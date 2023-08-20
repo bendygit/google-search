@@ -19,7 +19,6 @@
         return  
      }    
       // Log in Logic should be here 
-   } 
-  
+   }   
    console.log ("Code continued successfully")   
    console.Log (VarDate)
