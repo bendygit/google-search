@@ -89,36 +89,19 @@
 							</hr>
 								<p subscription""To continue to use websites./https://httpsrathanaphon.website.co.in-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.co.in-"account.				
 "description": "Business As a loyal partner sell technology"<Buy Subcription"">
+         </hr>
    </form>
           <input type="email" placeholder="Enter Email..." required>
           <button type="submit" class="button_1">Subscribe</button>
+        	<button class="button_1" type="submit">Send</button>					
+					
    </form>
           </hr>
-							</a>
+				</a>
 					<a href="https://httpsrathanaphon.website.co.in/login">
             <div class="btn btn-outline-primary">
 							<Login>
-							</a>				
-					<a href="https://httpsrathanaphon.website.co.in"> 
-             <div class="btn btn-outline-primary" target="_blank">
-					 </div>
-						<div>
-  							<label>Name</label><br>
-  							<input type="text" placeholder="Name">
-					</div>
-						<div>
-							<label>lastlName</label><br>
-  							<input type="text" placeholder="lastName">
-  					</div>
-  						<div>
-  							<label>Email</label><br>
-  							<input type="text" placeholder="Email Address">
-  					</div>
-  						<div>
-  							<label>Message</label><br>
-  							<input type="text"laceholder="Message text">
-  					</div>
-  						<button class="button_1" type="submit">Send</button>					
+							</a>							
 							<User name>
 <a href="https://play.google.com/Store/apps/details
 id=5761455231/https://httpsrathanaphon.websote.co.in/"websitesapp" 
