@@ -96,27 +96,9 @@
           </hr>
 							</a>
 					<a href="https://httpsrathanaphon.website.co.in/login">
-            <div class="btn btn-outline-primary">
+            <div class="btn btn-outline-login">
 							<Login>
 							</a>				
-					<a href="https://httpsrathanaphon.website.co.in"> 
-             <div class="btn btn-outline-primary" target="_blank">
-					 </div>
-						<div>
-  							<label>Name</label><br>
-  							<input type="text" placeholder="Name">
-					</div>
-						<div>
-							<label>lastlName</label><br>
-  							<input type="text" placeholder="lastName">
-  					</div>
-  						<div>
-  							<label>Email</label><br>
-  							<input type="text" placeholder="Email Address">
-  					</div>
-  						<div>
-  							<label>Message</label><br>
-  							<input type="text"laceholder="Message text">
   					</div>
   						<button class="button_1" type="submit">Send</button>					
 							<User name>
