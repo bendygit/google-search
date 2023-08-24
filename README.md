@@ -105,19 +105,14 @@
 <body>
       <button type="button" onclick="login()"> login </button>
       <button type="button" onclick="click()"> click </button>			
-		 <User name>
+		  <User name>
 </div>
    <div>
 <a href="https://play.google.com/Store/apps/details
 id=5761455231/https://httpsrathanaphon.websote.co.in/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.co.in
-							</a> <i class="fab fa-Android"></i>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>			
- <body>
+			</a> <i class="fab fa-Android"></i>			
+</body>
 <html>
   
    
