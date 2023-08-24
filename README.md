@@ -94,16 +94,20 @@
           <button type="submit" class="button_1">Subscribe</button>
   				<button class="button_1" type="submit">Send</button>			
    </form>
-          </hr>
-					</a>
-					<a href="https://httpsrathanaphon.website.co.in/login">
-            <div class="btn btn-outline-login">
-					<Login>
-					</a>				
-  					</div>
-            <button type="button" onclick="login()"> login </button>
-            <button type="button" onclick="click()"> click </button>			
-			   	<User name>
+      </hr>
+		 </a>
+		 <a href="https://httpsrathanaphon.website.co.in/login">
+      <div class="btn btn-outline-login">
+		 <Login>
+		 </a>				
+  	   </div>
+</head>
+<body>
+      <button type="button" onclick="login()"> login </button>
+      <button type="button" onclick="click()"> click </button>			
+		 <User name>
+</div>
+   <div>
 <a href="https://play.google.com/Store/apps/details
 id=5761455231/https://httpsrathanaphon.websote.co.in/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.co.in
