@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 </html>
@@ -86,7 +85,7 @@
 						<div class="Card-body text-center">
 							<h5 class="card-title">
 							  <p class="card-text">
-							</hr>
+		   </hr>
 <p subscription""To continue to use websites./https://httpsrathanaphon.website.co.in-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.co.in-"account.				
 "description": "Business As a loyal partner sell technology"<Buy Subcription"></p>
         </hr>
