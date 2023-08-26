@@ -1,6 +1,7 @@
 *{ 
   
  margin: 0; 
+ 
   
  } 
   
@@ -90,7 +91,7 @@
   
  text-decoration: none; 
   
- color: #2d2d2d; 
+ color:aliceblue;
   
  font-size: 25px; 
   
@@ -98,16 +99,24 @@
   
  .profile-trigger img { 
   
+ width: 40px; 
+
  width: 400px; 
-  
+ 
  border-radius: 100%; 
+
+ box-shadow: white;
+
+ box-sizing: 100%;
   
  } 
   
- .search-wrapper { 
-  
+ .search-werpper {
+
  width: 400px; 
-  
+
+ width: 400px; 
+ 
  display: flex; 
   
  flex-direction: column; 
@@ -119,7 +128,7 @@
  .search-logo img { 
   
  width: 400px; 
-  
+
  } 
   
  .search-bar { 
@@ -134,7 +143,7 @@
   
  .search-bar input { 
   
- height: 50px; 
+ height: 400px; 
   
  width: 100%; 
   
