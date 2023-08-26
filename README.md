@@ -116,7 +116,7 @@
 <a href="https://play.google.com/Store/apps/details
 id=5761455231/https://httpsrathanaphon.websote.co.in/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.co.in
-			</a> <i class="fab fa-Android"></i>			
+			</a> <i class="fa fa-Android"></i>			
 </body>
 <html>
   
