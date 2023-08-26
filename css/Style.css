@@ -1,6 +1,7 @@
 *{ 
   
  margin: 0; 
+ 
   
  } 
   
@@ -90,7 +91,7 @@
   
  text-decoration: none; 
   
- color: #2d2d2d; 
+ color:aliceblue;
   
  font-size: 25px; 
   
@@ -103,12 +104,16 @@
  width: 400px; 
  
  border-radius: 100%; 
+
+ box-shadow: white;
+
+ box-sizing: 100%;
   
  } 
   
  .search-werpper {
 
- width: 600px; 
+ width: 400px; 
 
  width: 400px; 
  
@@ -123,7 +128,7 @@
  .search-logo img { 
   
  width: 400px; 
-  
+
  } 
   
  .search-bar { 
