@@ -87,12 +87,13 @@
 							<h5 class="card-title">
 							  <p class="card-text">
 							</hr>
-								<p subscription""To continue to use websites./https://httpsrathanaphon.website.co.in-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.co.in-"account.				
-"description": "Business As a loyal partner sell technology"<Buy Subcription"">
+<p subscription""To continue to use websites./https://httpsrathanaphon.website.co.in-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.co.in-"account.				
+"description": "Business As a loyal partner sell technology"<Buy Subcription"></p>
          </hr>
    </form>
           <input type="email" placeholder="Enter Email..." required>
           <button type="submit" class="button_1">Subscribe</button>
+
   				<button class="button_1" type="submit">Send</button>			
    </form>
       </hr>
@@ -118,6 +119,23 @@ id=5761455231/https://httpsrathanaphon.websote.co.in/"websitesapp"
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.co.in
 			</a> <i class="fab fa-Android"></i>			
 </body>
+
+        	<button class="button_1" type="submit">Send</button>									
+   </form>
+          </hr>
+				</a>
+					<a href="https://httpsrathanaphon.website.co.in/login">
+            <div class="btn btn-outline-primary">
+				  <Login>
+					</a>							
+				  <User name>
+<a href="https://play.google.com/Store/apps/details
+id=5761455231/https://httpsrathanaphon.websote.co.in/"websitesapp" 
+<div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.co.in
+	   	</a> <i class="fab fa-Android"></i>
+	<div>				
+ <body>
+
 <html>
   
    

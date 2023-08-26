@@ -98,15 +98,21 @@
   
  .profile-trigger img { 
   
+
  width: 40px; 
+
+ width: 400px; 
+
   
  border-radius: 100%; 
   
  } 
   
- .search-wrapper { 
-  
+ .search-werpper {
  width: 600px; 
+
+ width: 400px; 
+
   
  display: flex; 
   
